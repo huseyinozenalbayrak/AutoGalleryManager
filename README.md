@@ -43,4 +43,4 @@ Contributing
 Contributions to the Auto Gallery App are welcome! If you have any suggestions, enhancements, or bug fixes, please feel free to open an issue or create a pull request.
 
 # License
-No lisence.
+This project is licensed under the MIT License - see the LICENSE file for details.
