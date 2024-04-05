@@ -17,7 +17,7 @@ Import CSV File to Database: Imports data from a CSV file into the database.
 
 # Installation
 1. Clone the repository to your local machine:
-git clone <repository_url>
+git clone "https://github.com/huseyinozenalbayrak/AutoGalleryManager.git"
 2. Install the required dependencies:
 pip install openpyxl
 3. Run the application:
@@ -33,5 +33,3 @@ Contributions to the Auto Gallery App are welcome! If you have any suggestions, 
 
 # License
 No lisence.
-
-Feel free to modify the README as needed and make sure to replace <repository_url> in the installation section with the actual URL of your GitHub repository.
