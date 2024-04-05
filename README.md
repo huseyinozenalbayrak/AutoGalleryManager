@@ -3,16 +3,27 @@ The Auto Gallery App is a Python-based application designed to manage and track 
 
 # Features
 Add Car: Allows users to add new cars to the database.
+
 Search Car: Enables users to search for cars based on various criteria such as brand, model, kilometer, age, etc.
+
 Show All Cars: Displays all cars currently stored in the database.
+
 Update Car: Allows users to update the information of existing cars.
+
 Delete Car: Enables users to delete specific cars from the database.
+
 Delete All Sales Data: Deletes all sales data from the database.
+
 Write DB to CSV: Writes the database contents to a CSV file.
+
 Write DB to XLSX: Writes the database contents to an Excel file (XLSX).
+
 Sell Car: Allows users to mark a car as sold and record the sale details.
+
 Write Sales Data to CSV: Writes sales data to a CSV file.
+
 Write Sales to XLSX: Writes sales data to an Excel file (XLSX).
+
 Import CSV File to Database: Imports data from a CSV file into the database.
 
 # Installation
